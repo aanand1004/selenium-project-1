@@ -1,1 +1,9 @@
-com\qa\App.class
+com\qa\pages\ProductDetailsPage.class
+com\qa\pages\Product.class
+com\qa\pages\HomePage.class
+com\qa\Util\Utils.class
+com\qa\pages\cartItem.class
+com\qa\pages\MainPage.class
+com\qa\pages\ViewCartPage.class
+com\qa\pages\ProductsPage.class
+com\qa\pages\SigninPage.class
